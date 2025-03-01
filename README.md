@@ -1,7 +1,6 @@
 # Dino Run
 
-A new Flutter project.
-
+模仿Google的小恐龍遊戲
 ## Getting Started
 
 This project is a starting point for a Flutter application.

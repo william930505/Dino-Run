@@ -1,4 +1,4 @@
-# flutter_application_1
+# Dino Run
 
 A new Flutter project.
 

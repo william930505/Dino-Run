@@ -1,15 +1,14 @@
 # Dino Run
 
 模仿Google的小恐龍遊戲
-## Getting Started
+## 功能
 
-This project is a starting point for a Flutter application.
+點擊畫面跳過仙人掌
 
-A few resources to get you started if this is your first Flutter project:
+碰到仙人掌失敗
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+分數以時間計算
+## 預覽
+![image](https://github.com/user-attachments/assets/3d38fc66-cc26-438e-bc66-e0373f28e273)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/0823e424-0195-4d61-8abd-bfa167273889)
